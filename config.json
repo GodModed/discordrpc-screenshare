@@ -1,0 +1,5 @@
+{
+    "client_id": "", // make a discord application
+    "FPS": 0.1, // prevents ratelimit
+    "cloudflared_token": "" // create a cloudflare tunnel
+}

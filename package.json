@@ -1,0 +1,17 @@
+{
+  "name": "discord-rpc-screenshare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "node-cloudflared-tunnel": "^1.0.9",
+    "screenshot-win": "^1.0.2"
+  }
+}
